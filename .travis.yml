@@ -17,7 +17,7 @@ deploy:
   bucket_path: "Bdoreactapp"
   on:
     branch: master
-  access_key_id: $AWS_ACCESS_KEY
+  access_key_id: AKIAJ23VS43FWBBS7RIQ
   secret_access_key:
-    secure: "$AWS_SECRET_KEY"
+    secure: "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"
 
