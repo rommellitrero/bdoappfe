@@ -11,10 +11,10 @@ script:
 deploy:
   provider: elasticbeanstalk
   region: "ap-southeast-1"
-  app: "Bdoreactapp"
+  app: "bdoreactapp"
   env: "Bdoreactapp-env"
   bucket_name: "elasticbeanstalk-ap-southeast-1-792844797253"
-  bucket_path: "Bdoreactapp"
+  bucket_path: "bdoreactapp"
   on:
     branch: master
   access_key_id: AKIAJ23VS43FWBBS7RIQ
