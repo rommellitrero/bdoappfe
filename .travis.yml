@@ -17,7 +17,7 @@ deploy:
   bucket_path: "bdoreactapp"
   on:
     branch: master
-  access_key_id: AKIAJ23VS43FWBBS7RIQ
+  access_key_id: AKIAJMX5RYID5BA2KAIA
   secret_access_key:
-    secure: "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"
+    secure: "1mUfO2bjnHIVWzoRakDg2fWEMwQ0jqddvbCeHyIq"
 
